@@ -3,7 +3,6 @@
 <img>![image](https://user-images.githubusercontent.com/61761648/119075229-4e570400-b9a5-11eb-9632-ee6efc8f8682.png)
 </img>
 <br>
-**Ayman-Shehata/Ayman-Shehata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
