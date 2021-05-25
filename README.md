@@ -3,9 +3,10 @@
 <img>![image](https://user-images.githubusercontent.com/61761648/119075229-4e570400-b9a5-11eb-9632-ee6efc8f8682.png)
 </img>
 <br>
-<h1>welcome</h1>
-Here are some ideas to get you started:
+<h1>Stsrting programming in 2014</h1>
+<img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png</img>
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
+-->
