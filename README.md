@@ -4,7 +4,7 @@
 </img>
 <br>
 <h1>Starting programming in 2014</h1>
-<h2>My love programming language is VisualBasic.NEt</h2>
+<h2>My love programming language is VisualBasic.NEt </h2>![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png)
 <h2>Curruntly: working with Flutter & Dart</h2>
 <h3>Working with(2014-Now):</h3>
 <ul>
@@ -20,7 +20,7 @@
  <li>Scripts: SmartStore.NET - OpenCart - WooCommerce</li>
  <li>Hosting</li>
 </ul>
-<img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png</img>
+
 
 <!--
 - 🔭 I’m currently working on ...
