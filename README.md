@@ -4,8 +4,22 @@
 </img>
 <br>
 <h1>Starting programming in 2014</h1>
-<h2>My love programming language is VisualBasic</h2>
+<h2>My love programming language is VisualBasic.NEt</h2>
 <h2>Curruntly: working with Flutter & Dart</h2>
+<h3>Working with(2014-Now):</h3>
+<ul>
+  <li>C#</li>
+  <li>ASP.NET</li>
+  <li>VisualBasic.Net</li>
+  <li>SQL</li>
+ <li>Flutter with Dart </li>
+  <li>FrontEnd: HTML-CSS-JS with bootstrap</li>
+  <li>Office: Word-Powerpoint-Excel-Acces</li>
+ <li>UI/Ux: Figma </li>
+ <li>CMS: Wordpress</li>
+ <li>Scripts: SmartStore.NET - OpenCart - WooCommerce</li>
+ <li>Hosting</li>
+</ul>
 <img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/512px-VB.NET_Logo.svg.png</img>
 
 <!--
