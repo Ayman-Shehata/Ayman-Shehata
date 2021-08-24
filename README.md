@@ -3,7 +3,7 @@
 <img>![image](https://user-images.githubusercontent.com/61761648/119075229-4e570400-b9a5-11eb-9632-ee6efc8f8682.png)
 </img>
 <br>
-<h1>Starting programming in 2014</h1>
+<h1>Starting programming in 2008 </h1>
 <h2>My love programming language is VisualBasic.NEt </h2>
 
 <h2>Curruntly: working with Flutter & Dart</h2>
