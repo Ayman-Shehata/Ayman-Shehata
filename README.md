@@ -1,6 +1,6 @@
 ### Hi there 👋
 [//]: # (https://github.com/anuraghazra/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayman-Shehata&show_icons=true&theme=vue&custom_title=Open%20Source%20Contributions&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayman-Shehata&show_icons=true&theme=prussian&custom_title=Open%20Source%20Contributions&include_all_commits=true)
 
 <img>![image](https://user-images.githubusercontent.com/61761648/119075229-4e570400-b9a5-11eb-9632-ee6efc8f8682.png)
 </img>
