@@ -33,8 +33,8 @@
 
 
 <br>
-<h1>Start programming in 2008 </h1>
-<h2>My love programming language is VisualBasic.NEt </h2>
+<h1>I started learning programming since 2008. </h1>
+<h2>My favorite programming language: VisualBasic.net </h2>
 
 <h2>Curruntly: working with Flutter & Dart</h2>
 <h3>Working with(2014-Now):</h3>
