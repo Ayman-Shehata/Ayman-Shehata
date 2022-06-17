@@ -26,14 +26,7 @@
   </p>
 <br />
 -->
-<hr>
-
-
-
-
-
-<br>
-<h1>I started learning programming since 2008. </h1>
+<h1> 2008 ==> Now </h1>
 <h2>My favorite programming language: VisualBasic.net </h2>
 
 <h2>Curruntly: working with Flutter & Dart</h2>
