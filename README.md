@@ -26,11 +26,11 @@
   </p>
 <br />
 -->
-<h1> 2008 ==> Now </h1>
+ 
 <h2>My favorite programming language: VisualBasic.net </h2>
 
 <h2>Curruntly: working with Flutter & Dart</h2>
-<h3>Working with(2014-Now):</h3>
+<h3>Working with:</h3>
 <ul>
   <li>C#</li>
   <li>ASP.NET</li>
